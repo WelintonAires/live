@@ -15,6 +15,7 @@ repita
    escreval ("Digite 2 para coverter litros em metros cúbicos")
    escreval ("Digite 3 para sair do programa")
    leia (opcao)
+   limpatela
 
    se opcao = 1 entao
       escreval ("Digite o valor do quilômetro a ser convertido em metro")
