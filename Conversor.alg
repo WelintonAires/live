@@ -27,6 +27,8 @@ repita
          leia (valor)
          resultado <- valor * 1000
          escreval (valor," metros cúbicos equivale a ", resultado, " litro(s)")
+      senao
+         escreval ("Opção Inválida")
       fimse
    fimse
 ate opcao = 3
